@@ -1,2 +1,0 @@
-# NHL-Database
-Test
